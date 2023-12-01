@@ -1,4 +1,4 @@
-# LunarianOS
-A hacking operating system designed using Ubuntu 23.04 LTS
+# Lunarian OS
 
-Please do expect this to be up in beta by October 2024
+Current Release: Lunarian 1(Aly-Coffee)
+Package Managers: pacman, AUR
